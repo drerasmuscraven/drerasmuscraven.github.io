@@ -1,0 +1,25 @@
+#colorDiv {
+display: inline-block;
+width: 100 px;
+height: 100 px;
+background-color: rgb(47, 241, 255);
+
+}
+
+#IDCODE {
+
+    background-color: rgb(200, 50, 70);
+    display: inline-block;
+width: 300 px;
+height: 300 px;
+margin: 100px;
+padding: 100px;
+}
+
+*/
+rgb(255, 255, 255) = #FFFFFF
+0123456789ABCDEF, F=15
+255=2x100+5x10+5x1
+255=Fx16+Fx1 azaz 15x16+15x1
+C
+/*

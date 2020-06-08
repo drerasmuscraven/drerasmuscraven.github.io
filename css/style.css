@@ -1,0 +1,122 @@
+@font-face {
+    
+     font-family: "AlexBrush";
+    src: url("fonts/AlexBrush/AlexBrush-Regular.ttf");
+    font-weight: 900;
+    text-align: center;
+    
+    
+}
+
+h3 {
+    font-weight: 900;
+    color: green; 
+    font-size: 14px;
+    font-family: comic sans ms, cursive, sans-serif;
+    text-align: center;
+    border: solid 5px blue;
+    padding: 15px 0;
+    box-shadow: 0 0 50px greenyellow;
+    max-width: 45%;
+    position: relative;
+    top: 10px;
+    left: 20px;
+
+}
+
+#Bonnie {
+
+position: fixed;
+
+}
+
+h3 {
+    font-weight: 900;
+    color: green; 
+    font-size: 14px;
+    font-family: comic sans ms, cursive, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+
+}
+ol {
+    line-height: 30px;
+}  
+
+#hobbyHeader {
+
+    color: rgb(255, 0, 234)
+}
+
+.listing {
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.background {
+
+    
+    background-color: teal;
+    
+    font-size: 20px;
+    font-family: "AlexBrush";
+    
+
+}
+
+.margine {
+
+    margin: 10px 30px 20px 2px;
+
+}
+
+#Other {
+
+margin-top: 175px;
+
+}
+
+hi {
+    color: blue;
+    font-size: 20px;
+    font-family: "AlexBrush";
+    text-align: center;
+}
+
+.alllabel {
+
+    
+padding: 50px;
+border: solid 5px #c0c0c0;
+max-width: 20%;
+box-shadow: 0 0 500px;
+display: inline-block;
+}
+
+.alllabel input {
+
+display: block;
+margin-bottom: 7px;
+
+
+}
+
+.alllabel input:focus[class="form-control"] {
+
+    border: solid 3px blue;
+
+
+}
+
+.alllabel button:hover {
+
+border: solid 3px red;
+
+}
+
+ol li:last-child {
+
+text-decoration: underline;
+
+}
